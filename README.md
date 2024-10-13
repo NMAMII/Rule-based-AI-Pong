@@ -18,11 +18,11 @@ Pong Game is a classic arcade-style game implemented in Python using the Turtle 
 ## Installation
 Clone the repository:
 ```
-   git clone https://github.com/NMAMII/Rule-based-AI-Pong.git
+git clone https://github.com/NMAMII/Rule-based-AI-Pong.git
 ```
 Navigate to the project directory:
 ```
-  cd pong-game
+cd pong-game
 ```
 Install required packages:
 ```
