@@ -1,4 +1,4 @@
-# Pong Game vs rule-based AI
+# Pong Game with rule-based AI
 
 ## Description
 Pong Game is a classic arcade-style game implemented in Python using the Turtle graphics library. The game features two paddles (one controlled by the player and the other by AI), a bouncing ball, and a scoring system. Players have three lives represented by hearts, which are displayed at the top right corner of the screen. If the player loses all hearts, a game over message is displayed, accompanied by sound effects.
